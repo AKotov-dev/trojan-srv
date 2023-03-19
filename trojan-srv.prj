@@ -51,6 +51,7 @@ deb=1
 5=/etc/trojan-srv/README.md
 6=/etc/trojan-srv/xray
 7=/usr/share/doc/trojan-srv/
+8=/etc/systemd/system/trojan-srv.service
 
 [AFTERINSTALL]
 0=#!/bin/bash
