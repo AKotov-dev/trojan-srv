@@ -6,7 +6,7 @@
 + Enable the Socks5 proxy - `127.0.0.1:1080` in the browser on your computer
 + This completes the configuration of the secure connection
 
-![](https://raw.githubusercontent.com/AKotov-dev/vmess-ws/main/ScreenShot1.png)
+![](https://raw.githubusercontent.com/AKotov-dev/trojan-srv/main/ScreenShot1.png)
 
 **Note:** The time on the client and server must be synchronized. The time zone does not matter. Tested in Mageia-8/9, Fedora-36 and Ubuntu-22.04. Don't forget to open the ports in `iptables`.  
   
