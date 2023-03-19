@@ -18,6 +18,6 @@ openssl req -new -x509 -key key.pem -out cert.pem -days 4095
 
 If you want to use IPV6 + `trojan-srv`, you can read this article: [How to Install Trojan on IPv6 VPS](https://wiki.hax.co.id/ipv6-servers/how-to-install-trojan-on-ipv6-vps/).
 
-**Note:** Tested in Mageia-8/9, Fedora-36 and Ubuntu-22.04. Don't forget to open the ports in `iptables`.  
+Tested in Mageia-8/9, Fedora-36 and Ubuntu-22.04. Don't forget to open the ports in `iptables`.  
   
 Similar project: [SS-Obfuscator](https://github.com/AKotov-dev/SS-Obfuscator), [vmess-ws](https://github.com/AKotov-dev/vmess-ws).
